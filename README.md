@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/feliksskleins/SpaceGame/_apis/build/status%2Ffklein7.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/feliksskleins/SpaceGame/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
